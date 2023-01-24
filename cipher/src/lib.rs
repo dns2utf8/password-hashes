@@ -12,7 +12,7 @@
     html_favicon_url = "https://raw.githubusercontent.com/RustCrypto/media/6ee8e381/logo.svg",
     html_root_url = "https://docs.rs/cipher/0.4.3"
 )]
-#![warn(missing_docs, rust_2018_idioms)]
+#![warn(missing_docs, rust_2021_compatibility)]
 
 pub use crypto_common;
 pub use inout;

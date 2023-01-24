@@ -5,7 +5,7 @@
     html_root_url = "https://docs.rs/crypto/0.4.0-pre"
 )]
 #![forbid(unsafe_code)]
-#![warn(rust_2018_idioms)]
+#![warn(missing_docs, rust_2021_compatibility)]
 
 //! Facade crate for [RustCrypto Traits][1], providing a single place to
 //! access compatible versions of all traits from the Rust Crypto project.

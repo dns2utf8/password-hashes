@@ -10,7 +10,7 @@
     clippy::mod_module_files,
     clippy::unwrap_used,
     missing_docs,
-    rust_2018_idioms,
+    rust_2021_compatibility,
     unused_lifetimes,
     unused_qualifications
 )]

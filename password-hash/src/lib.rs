@@ -6,7 +6,7 @@
     html_favicon_url = "https://raw.githubusercontent.com/RustCrypto/media/8f1a9894/logo.svg"
 )]
 #![forbid(unsafe_code)]
-#![warn(missing_docs, rust_2018_idioms, unused_lifetimes)]
+#![warn(missing_docs, rust_2021_compatibility, unused_lifetimes)]
 
 //!
 //! # Usage

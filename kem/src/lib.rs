@@ -7,7 +7,7 @@
     html_root_url = "https://docs.rs/kem"
 )]
 #![forbid(unsafe_code)]
-#![warn(missing_docs, unused_qualifications)]
+#![warn(missing_docs, rust_2021_compatibility, unused_qualifications)]
 
 #[cfg(feature = "std")]
 extern crate std;
